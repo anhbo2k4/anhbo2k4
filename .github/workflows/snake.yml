@@ -1,4 +1,4 @@
-﻿name: Generate Contribution Snake
+name: Generate Contribution Snake
 
 on:
   schedule:
@@ -18,6 +18,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-midnight.svg?color_snake=#8b5cf6&color_dots=#0ea5e9,#6366f1,#8b5cf6,#a855f7,#ec4899
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:

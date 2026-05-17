@@ -1,6 +1,10 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:8b5cf6,100:ec4899&height=180&section=header&text=Tr%E1%BA%A7n%20Nguy%E1%BB%85n%20Th%E1%BA%BF%20Anh&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20%26%20Mobile%20Developer&descAlignY=55&descSize=16" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/anhbo2k4/anhbo2k4/main/avatar.png" width="150" style="border-radius: 50%; border: 4px solid #8b5cf6; box-shadow: 0 0 20px rgba(139,92,246,0.3);" alt="The Anh" />
 
 # Hey, I'm The Anh 👋
 
@@ -84,7 +88,16 @@ Product thinking       ███████████████████
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/anhbo2k4/anhbo2k4/output/github-contribution-grid-snake-dark.svg" />
+### Day & Night
+<!-- Light mode -->
+<img src="https://raw.githubusercontent.com/anhbo2k4/anhbo2k4/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="90%" />
+<!-- Dark mode -->
+<img src="https://raw.githubusercontent.com/anhbo2k4/anhbo2k4/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="90%" />
+
+<br/>
+
+### 🌙 Midnight Purple
+<img src="https://raw.githubusercontent.com/anhbo2k4/anhbo2k4/output/github-contribution-grid-snake-midnight.svg" width="90%" />
 
 </div>
 
